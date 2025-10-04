@@ -77,6 +77,6 @@ El objetivo de este proyecto es construir un modelo de clasificación supervisad
 
 2. **Rendimiento del Modelo**: En el conjunto de prueba, el modelo alcanzó una accuracy del 84%, con una precision de 87% para la clase 0 y 80% para la clase 1, un recall de 83% y 84% respectivamente, y un f1-score de 0.84, mostrando un buen equilibrio entre precision y recall.
 
-3. **Importancia de las Características**: Las variables *ST depression induced by exercise relative to rest* y *serum cholestoral in mg/dl* fueron identificadas como factores cruciales para la predicción de enfermedades cardíacas, alineándose con la literatura médica existente.
+3. **Importancia de las Características**: Las variables *Depresión ST inducida por el ejercicio* y *Colesterol sérico en mg/dl* fueron identificadas como factores cruciales para la predicción de enfermedades cardíacas, alineándose con la literatura médica existente.
 
 ---
