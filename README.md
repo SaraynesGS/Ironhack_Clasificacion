@@ -73,7 +73,7 @@ El objetivo de este proyecto es construir un modelo de clasificación supervisad
 
 
 ### Conclusiones
-1. **Parámetros Óptimos**: El modelo de *Random Forest* alcanzó un rendimiento óptimo con parámetros seleccionados mediante tuning: ***bootstrap: True, max_depth: 20, max_features: 'sqrt', min_samples_leaf: 2, min_samples_split: 2,*** y ***n_estimators: 600***, logrando una accuracy en validación cruzada de 0.7989.
+1. **Parámetros Óptimos**: El modelo de *Random Forest* alcanzó un rendimiento óptimo con parámetros seleccionados mediante tuning: bootstrap: True, max_depth: 20, max_features: 'sqrt', min_samples_leaf: 2, min_samples_split: 2, y n_estimators: 600, logrando una accuracy en validación cruzada de 0.7989.
 
 2. **Rendimiento del Modelo**: En el conjunto de prueba, el modelo alcanzó una accuracy del 84%, con una precision de 87% para la clase 0 y 80% para la clase 1, un recall de 83% y 84% respectivamente, y un f1-score de 0.84, mostrando un buen equilibrio entre precision y recall.
 
